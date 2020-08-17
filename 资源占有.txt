@@ -1,0 +1,11 @@
+LUT             26%
+LUTRAM          1%
+FF              16%
+BRAM            13%
+DSP             12%
+IO              17%
+GT              13%
+BUFG            2%
+MMCM            8%
+PLL             6%
+PCIE            17%
